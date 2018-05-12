@@ -1,0 +1,37 @@
+_repo: Taglibro-de-Vila--pedelo_22901
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bulthuis, H. J. (Hindrik Jan)
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '25585'
+    url: http://www.gutenberg.org/2009/agents/25585
+    wikipedia: http://eo.wikipedia.org/wiki/Hendrik_Bulthuis
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blicher, Steen Steensen
+    alias: Steensen Blicher, Steen
+    birthdate: 1782
+    deathdate: 1848
+    gutenberg_agent_id: '5843'
+    url: http://www.gutenberg.org/2009/agents/5843
+    wikipedia: http://en.wikipedia.org/wiki/Steen_Steensen_Blicher
+description: 'Translation of: Brudstykker af en Landsbydegns Dagbog'
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2007-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22901'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Danish fiction -- Translations into Esperanto'
+- !lcc 'PT'
+title: Taglibro de Vilaĝ-pedelo
+url: http://www.gutenberg.org/ebooks/22901
