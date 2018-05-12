@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5843
     wikipedia: http://en.wikipedia.org/wiki/Steen_Steensen_Blicher
 description: 'Translation of: Brudstykker af en Landsbydegns Dagbog'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22901#Taglibro-de-Vila--pedelo
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2007-10-05'
 gutenberg_type: Text
